@@ -16,7 +16,6 @@
 #include <QScrollBar>
 #include <QWidget>
 #include <QKeyEvent>
-#include "myrect.h"
 #include <QDebug>
 #include <QBitmap>
 #include <QMediaPlayer>

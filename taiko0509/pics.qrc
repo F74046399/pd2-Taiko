@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>img/icon.ico</file>
+    </qresource>
+    <qresource prefix="/StartScreen">
+        <file>img/startcover.jpg</file>
+    </qresource>
+    <qresource prefix="/button">
+        <file>img/Rework/Start.png</file>
+        <file>img/Rework/Finish.png</file>
+        <file>img/Rework/stop.png</file>
+        <file>img/Rework/gogo.png</file>
+        <file>img/Rework/return.png</file>
+        <file>img/Rework/Again.png</file>
+        <file>img/Rework/readyyy.png</file>
+        <file>img/Rework/restart.png</file>
+        <file>img/Rework/continue.png</file>
+    </qresource>
+    <qresource prefix="/GameScreen">
+        <file>img/GameScreen.png</file>
+    </qresource>
+    <qresource prefix="/drum">
+        <file>img/Rework/face1.png</file>
+        <file>img/Rework/face2.png</file>
+        <file>img/Rework/face2L.png</file>
+        <file>img/Rework/face1L.png</file>
+    </qresource>
+    <qresource prefix="/RestartScreen">
+        <file>img/restartscreen.jpg</file>
+    </qresource>
+    <qresource prefix="/CheckBackground">
+        <file>img/Rework/backgroud.jpg</file>
+    </qresource>
+    <qresource prefix="/commen">
+        <file>img/Rework/baddddd.png</file>
+        <file>img/Rework/Gooddddd.png</file>
+        <file>img/people.png</file>
+    </qresource>
+    <qresource prefix="/intro">
+        <file>img/Rework/HHHHH.png</file>
+        <file>img/Rework/FFFFF.png</file>
+        <file>img/Rework/ReadyScreen.jpeg</file>
+    </qresource>
+</RCC>

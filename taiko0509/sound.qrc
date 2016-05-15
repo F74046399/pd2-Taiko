@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>voice/bg1.mp3</file>
+        <file>voice/bg3.mp3</file>
+        <file>voice/game.mp3</file>
+        <file>voice/drum1.mp3</file>
+        <file>voice/drum2.mp3</file>
+    </qresource>
+</RCC>
