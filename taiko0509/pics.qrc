@@ -34,7 +34,6 @@
     <qresource prefix="/commen">
         <file>img/Rework/baddddd.png</file>
         <file>img/Rework/Gooddddd.png</file>
-        <file>img/people.png</file>
     </qresource>
     <qresource prefix="/intro">
         <file>img/Rework/HHHHH.png</file>
